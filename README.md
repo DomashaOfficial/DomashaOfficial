@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Domasha+Rashmindu)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @DomashaOfficial
 - 👀 I’m interested in bot developing.
 - 🌱 I’m currently learning Python.
