@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![Stats](https://github-readme-stats.vercel.app/api?username=DomashaOfficial&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
-- ![Profile views](https://gpvc.arturio.dev/ImDenuwan)
+- ![Profile views](https://gpvc.arturio.dev/DomashaOfficial)
 
 
 # 🛠️ MY TOOLS AND LANG
@@ -43,8 +43,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-
-
-
+# My Trophies
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DomashaOfficial&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/DomashaOfficial)
