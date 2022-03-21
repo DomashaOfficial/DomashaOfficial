@@ -43,6 +43,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-# My Trophies
+# 🌟 My Trophies
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DomashaOfficial&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/DomashaOfficial)
